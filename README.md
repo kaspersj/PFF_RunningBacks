@@ -4,7 +4,7 @@ Analyzing running back data from the NCAA and NFL, with the goal to glean insigh
 ** Note: As per Pro Football Focus Term's and Conditions, we are not permitted to share a public data set. **
 
 ## NCAA to NFL Running Back Analysis: Does College Elusiveness Predict Pro Success?
-On and off since February 2025, Courage and I have been deep-diving into NCAA and NFL running back data. Our goal? To unearth statistical trends and gain insights, specifically focusing on whether a college running back's elusive rating impacts their drafting value and NFL performance. In simpler terms, we wanted to see if being elusive in college translates to higher NFL run grades.
+On and off since February 2025, @couragekwonye and I have been deep-diving into NCAA and NFL running back data. Our goal? To unearth statistical trends and gain insights, specifically focusing on whether a college running back's elusive rating impacts their drafting value and NFL performance. In simpler terms, we wanted to see if being elusive in college translates to higher NFL run grades.
  
 ## The Data Journey: A Marathon, Not a Sprint
 As with many data science projects, our analysis took several interesting turns, with the bulk of our effort dedicated to creating a usable dataset. This involved:
