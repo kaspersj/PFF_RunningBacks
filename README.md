@@ -1,7 +1,7 @@
 # PFF_RunningBacks
 Analyzing running back data from the NCAA and NFL, with the goal to glean insights from the statistical trends.
 
-** Note: As per Pro Football Focus Term's and Conditions, we are not permitted to share a public data set. **
+** Note: As per Pro Football Focus Term's and Conditions, we are not permitted to share a private data set. **
 
 ## NCAA to NFL Running Back Analysis: Does College Elusiveness Predict Pro Success?
 On and off since February 2025, @couragekwonye and I have been deep-diving into NCAA and NFL running back data. Our goal? To unearth statistical trends and gain insights, specifically focusing on whether a college running back's elusive rating impacts their drafting value and NFL performance. In simpler terms, we wanted to see if being elusive in college translates to higher NFL run grades.
