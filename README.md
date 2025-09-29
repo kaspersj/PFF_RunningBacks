@@ -12,7 +12,8 @@ As with many data science projects, our analysis took several interesting turns,
 •	Data Cleaning and Filtering: We removed duplicate values and refined the data to ensure each player's information reflected their best performance year (based on their highest 'grades_run' value), dropping other seasons.
 
 ## Unpacking the Insights: K-Means Clustering 
-In today's AI-driven world, descriptive understandings of insights are crucial to make sense of the "noise." Our analysis employed several techniques to extract meaningful patterns:  \n
+In today's AI-driven world, descriptive understandings of insights are crucial to make sense of the "noise." Our analysis employed several techniques to extract meaningful patterns: 
+
 •	K-Means Clustering: The scatter plots in the accompanying PDF visualize the results of K-means clustering on running back performance metrics. Each point represents a player-season, colored by its assigned cluster. You'll notice most charts show 3 clusters. This number was determined using the Elbow Method line charts, which illustrate "inertia" (within-cluster sum of squares) for different cluster counts. We looked for the "elbow" point where adding more clusters didn't significantly reduce inertia.
 
 ## Continuous Learning and Future Endeavors
